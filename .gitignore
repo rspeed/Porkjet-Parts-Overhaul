@@ -1,0 +1,27 @@
+Kerbal Space Program
+
+# KSP Parttools
+Source/KSP_RocketPartsRevamp/PartTools.cfg
+Source/KSP_RocketPartsRevamp/Assets/PartTools*
+Source/KSP_RocketPartsRevamp/Assets/SquadCore*
+Source/KSP_RocketPartsRevamp/Assets/TextMesh Pro*
+Source/KSP_RocketPartsRevamp/Assets/Plugins/KSPAssets*
+Source/KSP_RocketPartsRevamp/Assets/Editor/KSPCurveEditor.cs*
+
+
+Source/KSP_RocketPartsRevamp/[Ll]ibrary/
+Source/KSP_RocketPartsRevamp/[Tt]emp/
+Source/KSP_RocketPartsRevamp/obj/
+Source/KSP_RocketPartsRevamp/[Bb]uild/
+Source/KSP_RocketPartsRevamp/[Bb]uilds/
+Source/KSP_RocketPartsRevamp/Assets/AssetStoreTools*
+
+# Visual Studio cache directory
+Source/KSP_RocketPartsRevamp/.vs/
+
+# Unity3D generated meta files
+Source/KSP_RocketPartsRevamp/*.pidb.meta
+Source/KSP_RocketPartsRevamp/*.pdb.meta
+
+# Unity3D Generated File On Crash Reports
+Source/KSP_RocketPartsRevamp/sysinfo.txt
