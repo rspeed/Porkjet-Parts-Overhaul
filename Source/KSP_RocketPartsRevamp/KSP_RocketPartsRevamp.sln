@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSP_RocketPartsRevamp.CSharp", "KSP_RocketPartsRevamp.CSharp.csproj", "{228DBC32-6CA6-5180-61B1-92E5DE42E01B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSP_RocketPartsRevamp.CSharp.Editor", "KSP_RocketPartsRevamp.CSharp.Editor.csproj", "{75D9C920-979D-CABE-9556-B02B576179BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{228DBC32-6CA6-5180-61B1-92E5DE42E01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228DBC32-6CA6-5180-61B1-92E5DE42E01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228DBC32-6CA6-5180-61B1-92E5DE42E01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228DBC32-6CA6-5180-61B1-92E5DE42E01B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75D9C920-979D-CABE-9556-B02B576179BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D9C920-979D-CABE-9556-B02B576179BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D9C920-979D-CABE-9556-B02B576179BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D9C920-979D-CABE-9556-B02B576179BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

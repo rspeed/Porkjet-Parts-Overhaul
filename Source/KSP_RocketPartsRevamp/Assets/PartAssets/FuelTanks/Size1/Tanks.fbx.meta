@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: baaea4aac49d62847bbad5a47f738a69
+timeCreated: 1457135579
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Tank100
+    100002: Tank200
+    100004: Tank400
+    100006: Tank800
+    100008: //RootNode
+    100010: Tank100_A
+    100012: Tank100_B
+    100014: Tank100_C
+    100016: Tank100_D
+    100018: Tank100_E
+    100020: Tank200_A
+    100022: Tank200_B
+    100024: Tank200_C
+    100026: Tank200_D
+    100028: Tank200_E
+    100030: Tank400_A
+    100032: Tank400_B
+    100034: Tank400_C
+    100036: Tank400_D
+    100038: Tank400_E
+    100040: Tank800_A
+    100042: Tank800_B
+    100044: Tank800_C
+    100046: Tank800_D
+    100048: Tank800_E
+    400000: Tank100
+    400002: Tank200
+    400004: Tank400
+    400006: Tank800
+    400008: //RootNode
+    400010: Tank100_A
+    400012: Tank100_B
+    400014: Tank100_C
+    400016: Tank100_D
+    400018: Tank100_E
+    400020: Tank200_A
+    400022: Tank200_B
+    400024: Tank200_C
+    400026: Tank200_D
+    400028: Tank200_E
+    400030: Tank400_A
+    400032: Tank400_B
+    400034: Tank400_C
+    400036: Tank400_D
+    400038: Tank400_E
+    400040: Tank800_A
+    400042: Tank800_B
+    400044: Tank800_C
+    400046: Tank800_D
+    400048: Tank800_E
+    2300000: Tank100
+    2300002: Tank200
+    2300004: Tank400
+    2300006: Tank800
+    2300008: Tank100_A
+    2300010: Tank100_B
+    2300012: Tank100_C
+    2300014: Tank100_D
+    2300016: Tank100_E
+    2300018: Tank200_A
+    2300020: Tank200_B
+    2300022: Tank200_C
+    2300024: Tank200_D
+    2300026: Tank200_E
+    2300028: Tank400_A
+    2300030: Tank400_B
+    2300032: Tank400_C
+    2300034: Tank400_D
+    2300036: Tank400_E
+    2300038: Tank800_A
+    2300040: Tank800_B
+    2300042: Tank800_C
+    2300044: Tank800_D
+    2300046: Tank800_E
+    3300000: Tank100
+    3300002: Tank200
+    3300004: Tank400
+    3300006: Tank800
+    3300008: Tank100_A
+    3300010: Tank100_B
+    3300012: Tank100_C
+    3300014: Tank100_D
+    3300016: Tank100_E
+    3300018: Tank200_A
+    3300020: Tank200_B
+    3300022: Tank200_C
+    3300024: Tank200_D
+    3300026: Tank200_E
+    3300028: Tank400_A
+    3300030: Tank400_B
+    3300032: Tank400_C
+    3300034: Tank400_D
+    3300036: Tank400_E
+    3300038: Tank800_A
+    3300040: Tank800_B
+    3300042: Tank800_C
+    3300044: Tank800_D
+    3300046: Tank800_E
+    4300000: Tank800
+    4300002: Tank400
+    4300004: Tank200
+    4300006: Tank100
+    4300008: Tank800_E
+    4300010: Tank400_E
+    4300012: Tank200_E
+    4300014: Tank100_E
+    4300016: Tank800_D
+    4300018: Tank400_D
+    4300020: Tank200_D
+    4300022: Tank100_D
+    4300024: Tank800_C
+    4300026: Tank400_C
+    4300028: Tank200_C
+    4300030: Tank100_C
+    4300032: Tank800_B
+    4300034: Tank400_B
+    4300036: Tank200_B
+    4300038: Tank100_B
+    4300040: Tank800_A
+    4300042: Tank400_A
+    4300044: Tank200_A
+    4300046: Tank100_A
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.25
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
