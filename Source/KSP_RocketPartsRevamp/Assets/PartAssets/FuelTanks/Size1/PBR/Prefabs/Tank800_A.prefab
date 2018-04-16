@@ -27,7 +27,6 @@ GameObject:
   - component: {fileID: 443080}
   - component: {fileID: 3313202}
   - component: {fileID: 2385052}
-  - component: {fileID: 6424786}
   - component: {fileID: 11491154}
   m_Layer: 0
   m_Name: Tank800_A
@@ -109,20 +108,6 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 166304}
   m_Mesh: {fileID: 4300000, guid: c296e5b99c400ba45a6ddbb55c598843, type: 3}
---- !u!64 &6424786
-MeshCollider:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 186906}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Convex: 0
-  m_InflateMesh: 0
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 4300000, guid: c296e5b99c400ba45a6ddbb55c598843, type: 3}
 --- !u!64 &6483892
 MeshCollider:
   m_ObjectHideFlags: 1
@@ -149,7 +134,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: FL-T800_A
-  filePath: 
+  filePath: PartOverhauls/Parts/FuelTank
   production: 1
   textureFormat: 2
 --- !u!1001 &100100000

@@ -134,7 +134,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: FL-T100_A
-  filePath: 
+  filePath: PartOverhauls/Parts/FuelTank
   production: 1
   textureFormat: 2
 --- !u!1001 &100100000
