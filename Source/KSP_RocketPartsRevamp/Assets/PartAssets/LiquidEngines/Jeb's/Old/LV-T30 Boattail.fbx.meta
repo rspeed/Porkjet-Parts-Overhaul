@@ -1,43 +1,17 @@
 fileFormatVersion: 2
-guid: 9f071f09d0865a648bac510304336915
-timeCreated: 1456750398
+guid: a95006fdb82fb5d4abe97f2b37096062
+timeCreated: 1473611720
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
   fileIDToRecycleName:
-    100000: Engine
-    100002: EngineJoint
-    100004: Frame
-    100006: Framejoint
-    100008: Gimbal
-    100010: //RootNode
-    100012: MovingParts
-    100014: Piston01Anchor
-    100016: Piston01Target
-    100018: Piston02Anchor
-    100020: Piston02Base
-    100022: Piston02Target
-    400000: Engine
-    400002: EngineJoint
-    400004: Frame
-    400006: Framejoint
-    400008: Gimbal
-    400010: //RootNode
-    400012: MovingParts
-    400014: Piston01Anchor
-    400016: Piston01Target
-    400018: Piston02Anchor
-    400020: Piston02Base
-    400022: Piston02Target
-    2300000: Engine
-    2300002: Frame
-    3300000: Engine
-    3300002: Frame
-    4300000: Engine
-    4300002: MovingParts
-    4300004: Frame
-    9500000: //RootNode
-    13700000: MovingParts
+    100000: //RootNode
+    100002: LV_T30
+    400000: //RootNode
+    400002: LV_T30
+    2300000: LV_T30
+    3300000: LV_T30
+    4300000: LV_T30
   materials:
     importMaterials: 1
     materialName: 1
@@ -88,7 +62,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 4
     normalCalculationMode: 0
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
@@ -107,7 +81,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 2598b1df7592bcf46ad7d716cb01fb5c
-timeCreated: 1473629327
+guid: 9f071f09d0865a648bac510304336915
+timeCreated: 1456750398
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
@@ -8,26 +8,26 @@ ModelImporter:
     100000: Engine
     100002: EngineJoint
     100004: Frame
-    100006: FrameJoint
+    100006: Framejoint
     100008: Gimbal
     100010: //RootNode
     100012: MovingParts
-    100014: Null
-    100016: Piston01Anchor
-    100018: Piston01Target
-    100020: Piston02Anchor
+    100014: Piston01Anchor
+    100016: Piston01Target
+    100018: Piston02Anchor
+    100020: Piston02Base
     100022: Piston02Target
     400000: Engine
     400002: EngineJoint
     400004: Frame
-    400006: FrameJoint
+    400006: Framejoint
     400008: Gimbal
     400010: //RootNode
     400012: MovingParts
-    400014: Null
-    400016: Piston01Anchor
-    400018: Piston01Target
-    400020: Piston02Anchor
+    400014: Piston01Anchor
+    400016: Piston01Target
+    400018: Piston02Anchor
+    400020: Piston02Base
     400022: Piston02Target
     2300000: Engine
     2300002: Frame
@@ -88,7 +88,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 4
     normalCalculationMode: 0
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2

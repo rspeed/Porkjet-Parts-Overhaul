@@ -1,17 +1,15 @@
 fileFormatVersion: 2
-guid: a95006fdb82fb5d4abe97f2b37096062
-timeCreated: 1473611720
+guid: c5d3c4724cf2f84498ec439ff71cee4d
+timeCreated: 1473623669
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
   fileIDToRecycleName:
     100000: //RootNode
-    100002: LV_T30
     400000: //RootNode
-    400002: LV_T30
-    2300000: LV_T30
-    3300000: LV_T30
-    4300000: LV_T30
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: LV_909_COL
   materials:
     importMaterials: 1
     materialName: 1
@@ -62,7 +60,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 4
     normalCalculationMode: 0
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2

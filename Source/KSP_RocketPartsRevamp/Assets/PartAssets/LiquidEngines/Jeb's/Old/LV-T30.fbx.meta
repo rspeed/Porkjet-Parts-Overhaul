@@ -1,32 +1,17 @@
 fileFormatVersion: 2
-guid: d9a4546eb774b5f4e84070952ba3c42f
-timeCreated: 1457611334
+guid: cc107e217dc0dd24883de3b0eb079cb3
+timeCreated: 1473622479
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
   fileIDToRecycleName:
-    100000: Engine
-    100002: Frame
-    100004: Gimbal
-    100006: //RootNode
-    100008: Piston01Anchor
-    100010: Piston01Target
-    100012: Piston02Anchor
-    100014: Piston02Target
-    400000: Engine
-    400002: Frame
-    400004: Gimbal
-    400006: //RootNode
-    400008: Piston01Anchor
-    400010: Piston01Target
-    400012: Piston02Anchor
-    400014: Piston02Target
-    2300000: Engine
-    2300002: Frame
-    3300000: Engine
-    3300002: Frame
-    4300000: Engine
-    4300002: Frame
+    100000: //RootNode
+    100002: LV_T30_2
+    400000: //RootNode
+    400002: LV_T30_2
+    2300000: LV_T30_2
+    3300000: LV_T30_2
+    4300000: LV_T30_2
   materials:
     importMaterials: 1
     materialName: 1
@@ -77,7 +62,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 4
     normalCalculationMode: 0
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
