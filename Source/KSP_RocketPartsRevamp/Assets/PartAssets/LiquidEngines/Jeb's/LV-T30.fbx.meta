@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 6d3b659dbd6bb430ab766c711bd523a9
+timeCreated: 1523928612
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bare
+    100002: Boattail
+    100004: Boattail.COL
+    100006: Engine
+    100008: Frame
+    100010: Gimbal
+    100012: //RootNode
+    100014: thrustTransform
+    100016: Empty
+    100018: LV-T30
+    100020: GGExhaust
+    100022: gimbalTransform
+    400000: Bare
+    400002: Boattail
+    400004: Boattail.COL
+    400006: Engine
+    400008: Frame
+    400010: Gimbal
+    400012: //RootNode
+    400014: thrustTransform
+    400016: Empty
+    400018: LV-T30
+    400020: GGExhaust
+    400022: gimbalTransform
+    2300000: Bare
+    2300002: Boattail
+    2300004: Boattail.COL
+    2300006: Engine
+    2300008: Frame
+    3300000: Bare
+    3300002: Boattail
+    3300004: Boattail.COL
+    3300006: Engine
+    3300008: Frame
+    4300000: Engine
+    4300002: Frame
+    4300004: Boattail
+    4300006: Boattail.COL
+    4300008: Bare
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.25
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

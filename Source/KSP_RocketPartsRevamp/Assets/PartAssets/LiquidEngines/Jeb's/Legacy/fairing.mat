@@ -6,8 +6,8 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: fairing
-  m_Shader: {fileID: 4800000, guid: aa82dfa84be3e6740a631d6b49bc2521, type: 3}
+  m_Name: Fairing
+  m_Shader: {fileID: 4800000, guid: 4eb23d6a8a22cd2408ed28ac1ce15ed3, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0

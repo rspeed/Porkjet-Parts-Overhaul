@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: bf5da54f595b440a2aaf06e73c389499
+timeCreated: 1523867942
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bare
+    100004: Boattail
+    100006: Engine
+    100008: EngineJoint
+    100010: Frame
+    100012: Frame 1
+    100014: FrameJoint
+    100016: Gimbal
+    100018: LV-T15
+    100020: //RootNode
+    100022: MovingParts
+    100024: Piston01Anchor
+    100026: Piston01Target
+    100028: Piston02Anchor
+    100030: Piston02Target
+    100032: GGExhaust
+    100034: thrustTransform
+    100036: Boattail.COL
+    100038: gimbalTransform
+    100040: PistonTargets
+    100042: FlexJoints
+    100044: Pistons
+    100046: EngineJoint_end
+    100048: FrameJoint_end
+    100050: Piston01Target_end
+    100052: Piston02Target_end
+    100054: PistonAnchor 1
+    100056: PistonAnchor 1_end
+    100058: PistonAnchor 2
+    100060: PistonAnchor 2_end
+    100062: PistonAnchors
+    100064: Base
+    400000: Armature
+    400002: Bare
+    400004: Boattail
+    400006: Engine
+    400008: EngineJoint
+    400010: Frame
+    400012: Frame 1
+    400014: FrameJoint
+    400016: Gimbal
+    400018: LV-T15
+    400020: //RootNode
+    400022: MovingParts
+    400024: Piston01Anchor
+    400026: Piston01Target
+    400028: Piston02Anchor
+    400030: Piston02Target
+    400032: GGExhaust
+    400034: thrustTransform
+    400036: Boattail.COL
+    400038: gimbalTransform
+    400040: PistonTargets
+    400042: FlexJoints
+    400044: Pistons
+    400046: EngineJoint_end
+    400048: FrameJoint_end
+    400050: Piston01Target_end
+    400052: Piston02Target_end
+    400054: PistonAnchor 1
+    400056: PistonAnchor 1_end
+    400058: PistonAnchor 2
+    400060: PistonAnchor 2_end
+    400062: PistonAnchors
+    400064: Base
+    2300000: Bare
+    2300002: Boattail
+    2300004: Engine
+    2300006: Frame 1
+    2300008: Frame
+    2300010: Boattail.COL
+    2300012: Base
+    3300000: Bare
+    3300002: Boattail
+    3300004: Engine
+    3300006: Frame 1
+    3300008: Frame
+    3300010: Boattail.COL
+    3300012: Base
+    4300000: Engine
+    4300002: Boattail
+    4300004: Frame
+    4300006: Bare
+    4300008: MovingParts
+    4300010: Boattail.COL
+    4300012: Pistons
+    4300014: FlexJoints
+    4300016: Base
+    9500000: //RootNode
+    13700000: MovingParts
+    13700002: FlexJoints
+    13700004: Pistons
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.25
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
